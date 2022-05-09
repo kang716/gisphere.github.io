@@ -100,3 +100,16 @@ Yonsei University is one of the three prestigious universities (SKY) in South Ko
 
 Professors:
 - **[Joon Heo](http://scsi.yonsei.ac.kr/professor.html)**: mapping, spatial data science, spatial information.
+
+### Kyung Hee University
+
+Seoul, South Korea
+
+Unit: [Department of Geography](https://geo.khu.ac.kr/geo/user/contents/view.do?menuNo=3600082)
+
+Kyung Hee University (KHU) is a private research University, widely regarded as one of the best universities in South Korea. It grants master's and doctoral degrees. The main research directions are GIS, applied GIS, cadastre, geodesy, GPS, surveying, photogrammetry, and remote sensing.
+
+Professors:
+- **[Chul Sue Hwang](https://geo.khu.ac.kr/geo/user/bbs/BMSR00047/list.do?menuNo=3600008)**: GIS, spatial data science, geovisualization, VR
+- **[Jinmu Choi](https://geo.khu.ac.kr/geo/user/bbs/BMSR00047/list.do?menuNo=3600008)**: GIS, spatial data science, remote sensing 
+- **[Seong-Yun Hong](https://geo.khu.ac.kr/geo/user/bbs/BMSR00047/list.do?menuNo=3600008)**: GIS, residential segregation, spatial statistics
